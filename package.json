@@ -1,5 +1,5 @@
 {
-  "name": "cordova-plugin-photo-library",
+  "name": "cordova-plugin-photo-library-ld",
   "version": "2.3.1",
   "description": "Plugin that just gets photos from the gallery",
   "main": "index.js",
